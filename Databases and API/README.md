@@ -1,8 +1,8 @@
 Assignment API URL:https://derrick-msa-phase1.azurewebsites.net/index.html
-![SQL Query 1](./img/Annotation 2020-07-26 203907.png)
-![SQL Query 2](./img/Annotation 2020-07-26 203927.png)
-![SQL Query 3](./img/Annotation 2020-07-26 203951.png)
-![Swagger UI](./img/Annotation 2020-07-26 204022.png)
+![SQL Query 1](./img/Annotation%202020-07-26%20203907.png)
+![SQL Query 2](./img/Annotation%202020-07-26%20203927.png)
+![SQL Query 3](./img/Annotation%202020-07-26%20203951.png)
+![Swagger UI](./img/Annotation%202020-07-26%20204022.png)
 
 
 # Table of contents
